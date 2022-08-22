@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "log-octane-swoole",
+  "private_key_id": "76ab5a8f4f2af5b1d5db6227f68c7440641a95a0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCd4r62FjFPrjJW\nRZsHkdJb/s0qUl6hKDflQVC8/atm58pZLvzIgH/B7z6s7D2nERTylHq2pgo2elUb\ndnhKCx3pTHpaNTMgDrZalwGLwUDke3jo+UPkyzTTOMpZZ/Yc22yQzFaio+gR3DFS\nJBSzpveXnp6cJuxDYbd7eZQq8FpO+VfCgPeyVVFCfZy7VEpk2KbFwexUrYbxKWAs\n3UALp3Pe2QHWfH/yMhDZbkBNk7ryBKdaeHwkMMGL9r65n53DLouv1Zr6kuhjp5Ur\noIBQPWgSDrSlqO7Mw0KwK3u3pC1IE3xlyX/sR9w5ITTPM6genj2NfxltbPWBA9PG\nFvjJamTtAgMBAAECggEAEN742AY5ELWhhVx8u2tWmiP5Emuo1vmwN1wqX3ePyDg+\nhBckRdyNSlDhVqML131Yyq8ZCclmT/n0fDHFmsvjT1mvvVHv+5322GlIbgGhiIi1\nG9f+7ETWiTeJT9JvFxhPWo2rOEfhdX8c+hUG7UeLL3Vwp2j1WCHp9FTCg3AZhlSt\nlzzZel+czYQbEgZ+/y9oJvc2GWbzqACc6tzblOiKOMcvjfLE1BbehnyHsAm9nRNp\nw1ArY7KdUvVDT2vvK7KhzK92wfvFy1Q8tfNgr+czRWxnfxQ4XqPAWIXRjo1p02NO\nkoA8FBBWz3LMDj8riP4qI/fLytkwDNZfdymy7m9X1QKBgQDK7tj+zQvhXTnZqB58\nqis6EloOY97AplhAA/x/B7nqMR8h49P8QnKfMQAmg31V8PXdK/wyKqnxFo/kaamA\nKPpP2SjbJgx+UkqW3BCzbr8vPOhytxKQc+nxqv/mrhaMiVLq2sI+otTxl5MMz8+o\nHQ93ZFiadJgV/phNnx4tBy1hOwKBgQDHLEBPfPQSrHXbyC1SZtcfVc9H5LS1S6XY\ntlth3obibKRUz88NZbJoXBmBHJ1fBASPX5UVqxPrMkzsyNekncHVJE9CkuNY4gW7\nvGKOucwwZui8tIK4wSyzYbkyQAW8f4renBIEjo+B+s1hGJsY97w1P7UlNDxBqSdW\nIorn5ttv9wKBgB8DoeZPMCGhPdYl+4LR/wlBBMJuQPzwb0xZT52acK96Emf7icpj\n3WC2/G7maaFY0jqbHlAMdSyDZjpia6VKnfbWGYhkqEQmD4A+4c6Kfm2ZwWzGze+F\nx5tHpxR6RrfzxNhf1o/8Es9Zev/aQsJOrq5wh5oTd6rk3iH+z33SOv1BAoGBALcp\ntbaj1Z06pmRI8Yz+8ERr2GRoKdszxz/Fa8JULz0Y5gLs3J+Yb3pTgEzg8MRJYJwt\nLWAw5O99YYq7pLxJK9EERDOX+6VorhcYxpY0vVehu9SWOEUJuT751qMkh2Hy9NWF\nN3ijVcwVxjvNsgxC/v0FKmQdZnCHy5oFyDI9dn2/AoGAQ0/OrV6YMjGlR2H+kJH1\nQZY4og1+MqrJW5yk8q1dX3AfuxBCadWCpM3WPpdB4dNkcS+T71PRBVJWt9pvGCnh\nTZMw1FygEEYfElCJLpKM0X0+1Q0nxvYgF0PpNpLQBuc8v6PiXrhqfdNiPPjtfGzS\n39OY1PbJTNyPr2qVyiAbGJA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "log-octane@log-octane-swoole.iam.gserviceaccount.com",
+  "client_id": "108087787381720119474",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/log-octane%40log-octane-swoole.iam.gserviceaccount.com"
+}
